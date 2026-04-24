@@ -46,6 +46,22 @@ This project addresses:
 
 ---
 
+## 🖼️ Dashboard Preview
+
+### 📊 Executive Workforce Overview
+![Dashboard Summary](dashboard-summary-active.png)
+
+---
+
+### 👥 Employee-Level Drilldown Analysis
+![Employee Records View](dashboard-records-active1.png)
+
+---
+
+> These visuals provide both macro-level workforce trends and micro-level employee insights driving attrition behavior.
+
+---
+
 ## 🧠 Key Insights
 
 - 🔴 Attrition is concentrated in specific departments, not evenly distributed  
